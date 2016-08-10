@@ -1,0 +1,27 @@
+div{
+    font:100%/1 sans-serif;
+    max-width: 10em;
+    min-height: 5em;
+    padding:10px;
+    color: white;
+    margin: 10px 0;
+}
+
+.div1{
+    background: url(http://csssecrets.io/images/code-pirate.svg)
+	            no-repeat bottom right #58a;
+    background-position: right 20px bottom 10px;
+
+}
+
+.div2{
+    background: url(http://csssecrets.io/images/code-pirate.svg)
+	            no-repeat bottom right #58a;
+    background-origin: content-box;
+}
+
+.div3{
+    background: url(http://csssecrets.io/images/code-pirate.svg)
+	            no-repeat bottom right #58a;
+    background-position: calc(100% - 20px) calc(100% - 10px);
+}

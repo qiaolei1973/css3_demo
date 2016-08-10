@@ -1,0 +1,14 @@
+body{
+    background: url("http://csssecrets.io/images/stone-art.jpg")
+}
+
+div{
+    border: 10px solid hsla(0, 0%, 100%, .5); /*色调 饱和度 亮度 透明度 */
+    background: white;
+    background-clip: padding-box; /*背景图片渲染至padding层 */
+
+    padding:2em;
+    margin: 2em auto 0 ;
+    max-width:20em;
+    font:100%/1.5 sans-serif;
+}
