@@ -1,0 +1,30 @@
+/*.text-indent_t{
+    text-indent:0.5em;
+}*/
+
+.text-indent_t:first-letter{
+    font-size: 30px;
+    color: #B23AEE;
+    float: left;
+}
+
+selection_t::section{
+    color:#9400D3;
+    background: #A9A9A9;
+}
+
+.text-align_t{
+    text-align: center;
+    line-height: 15px;
+}
+
+.text-decoration_t1{
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text-decoration_t2{
+    text-decoration: none;
+}
+
