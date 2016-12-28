@@ -242,9 +242,9 @@ a {
         .st-container>a {
             font-size: 10px;
         }
-        [data-icon]::after {
+        [data-icon]:after {
             font-size: 60px;
-            transform:rotate(-45deg) translateY(15%);
+            transform: rotate(-45deg) translateY(15%);
         }
     }
 }
